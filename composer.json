@@ -1,0 +1,12 @@
+{
+    "name": "alexspit/zendengineer",
+    "description": "Notes and sample code while studying for the Zend Certified Engineer Course",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Alex Spiter",
+            "email": "aspiteri6@gmail.com"
+        }
+    ]
+}
