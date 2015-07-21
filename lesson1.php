@@ -6,5 +6,11 @@
  * Time: 15:29
  */
 
-echo "Hello World!";
+$test = "This is me.";
 
+if (print($test)) {
+    echo 'used print() as an expression because it returns a value';
+}
+
+
+var_dump(print('test'));
