@@ -8,5 +8,11 @@
             "name": "Alex Spiter",
             "email": "aspiteri6@gmail.com"
         }
-    ]
+    ],
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "2.*"
+    }
+
+
 }
+
