@@ -47,7 +47,7 @@ if (print($test)) {
     echo 'used print() as an expression because it returns a value';
 }
 
-include_once "bootstrap.html";
+
 var_dump(print('test'));
 
 
